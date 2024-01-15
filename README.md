@@ -10,6 +10,6 @@ Please refer to the [license](https://github.com/applibot-inc/applibot-rig/blob/
 
 
 # Download
-以下のリンクをクリックすることでもDl可能です
+以下のリンクをクリックすることでもDL可能です
 
 hogehoge
