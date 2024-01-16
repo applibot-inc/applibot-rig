@@ -16,13 +16,12 @@ You can DownLoad by clicking the following link.
 
 
 [ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
-　
-![バナー_A_b](https://github.com/applibot-inc/applibot-rig/assets/97662281/7fe32334-5826-458e-be17-c2e927175ace)
+
+<img width="360" alt="ab" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/e1971b51-5b87-40eb-85fa-defa0bdde5a2">
 
 [suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
-　
-![バナー_B_b](https://github.com/applibot-inc/applibot-rig/assets/97662281/d929030f-59b5-495d-958e-3ef088a5c053)
 
+<img width="360" alt="suiren" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/d929030f-59b5-495d-958e-3ef088a5c053">
 
 [slime - スライム](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "slime - スライム")
 
