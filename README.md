@@ -20,3 +20,10 @@ You can DownLoad by clicking the following link.
 [suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
 
 [slime - スライム](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "slime - スライム")
+
+# お願い
+当社のコントローラーを気に入っていただけましたら、リポジトリのStarを押して頂けると幸いです\
+Githubアカウントが必要になりますので、お持ちでないかたは大変お手数ですが新規作成のうえStar登録をよろしくお願いいたします
+
+If you like our controllers, we would appreciate it if you would star our repository!\
+If you do not have a Github account, please create one and register as a Star.
