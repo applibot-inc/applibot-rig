@@ -12,7 +12,7 @@ Please refer to the [license](https://github.com/applibot-inc/applibot-rig/blob/
 # Download
 以下のリンクをクリックすることでもDL可能です
 
-[ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip, "ab - エイビー")
+[ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
 
 [suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
 
