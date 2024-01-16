@@ -16,7 +16,7 @@ You can DownLoad by clicking the following link.
 
 
 [ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
-![ダウンロード_A](https://github.com/applibot-inc/applibot-rig/assets/97662281/30f883be-80f8-496c-8a21-6493ea2278a7)
+![バナー_A_b](https://github.com/applibot-inc/applibot-rig/assets/97662281/031c0c9d-263f-4d02-b3ff-9fe2256162ed)
 
 [suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
 ![ダウンロード_B](https://github.com/applibot-inc/applibot-rig/assets/97662281/6cf6ee43-e008-4418-b7ec-7bacb65715b1)
