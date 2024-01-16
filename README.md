@@ -16,10 +16,13 @@ You can DownLoad by clicking the following link.
 
 
 [ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
+![ダウンロード_A](https://github.com/applibot-inc/applibot-rig/assets/97662281/30f883be-80f8-496c-8a21-6493ea2278a7)
 
 [suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
+![ダウンロード_B](https://github.com/applibot-inc/applibot-rig/assets/97662281/6cf6ee43-e008-4418-b7ec-7bacb65715b1)
 
 [slime - スライム](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "slime - スライム")
+
 
 # お願い
 当社のコントローラーを気に入っていただけましたら、リポジトリのStarを押して頂けると幸いです\
