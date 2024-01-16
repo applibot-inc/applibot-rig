@@ -28,7 +28,7 @@ You can DownLoad by clicking the following link.
 
 # お願い
 当社のコントローラーを気に入っていただけましたら、リポジトリのStarを押して頂けると幸いです\
-![image](https://github.com/applibot-inc/applibot-rig/assets/97662281/9353cb49-b3c8-47e0-a95a-af247548d0a0)
+![image](https://github.com/applibot-inc/applibot-rig/assets/97662281/6328a32f-8ec5-4b4d-980c-7da61619043b)
 
 Githubアカウントが必要になりますので、お持ちでないかたは大変お手数ですが新規作成のうえStar登録をよろしくお願いいたします
 
