@@ -12,4 +12,8 @@ Please refer to the [license](https://github.com/applibot-inc/applibot-rig/blob/
 # Download
 以下のリンクをクリックすることでもDL可能です
 
-hogehoge
+[ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip, "ab - エイビー")
+
+[suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
+
+[slime - スライム](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "slime - スライム")
