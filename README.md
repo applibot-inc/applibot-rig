@@ -25,7 +25,9 @@ You can DownLoad by clicking the following link.
 
 <img width="360" alt="suiren" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/d929030f-59b5-495d-958e-3ef088a5c053">
 
-[slime - スライム](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "slime - スライム")
+[gummy - グミー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "gummy - グミー")
+
+![バナー_C](https://github.com/applibot-inc/applibot-rig/assets/97662281/ee63d23d-0125-49bd-95a5-15e01e03528e)
 
 
 # お願い
