@@ -27,8 +27,7 @@ You can DownLoad by clicking the following link.
 
 [gummy - グミー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "gummy - グミー")
 
-![バナー_C](https://github.com/applibot-inc/applibot-rig/assets/97662281/ee63d23d-0125-49bd-95a5-15e01e03528e)
-
+<img width="360" alt="gummy" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/ee63d23d-0125-49bd-95a5-15e01e03528e">
 
 # お願い
 当社のコントローラーを気に入っていただけましたら、リポジトリのStarを押して頂けると幸いです\
