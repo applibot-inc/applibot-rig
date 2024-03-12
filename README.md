@@ -4,7 +4,7 @@
 
 こちらは、そのコントローラーを提供する為の専用リポジトリとなります.
 
-The Applibot Rig is a free rig for use in Maya released by Applibot.
+The [Applibot Rig](https://www.applibot.co.jp/en/3drig/) is a free rig for use in Maya released by Applibot.
 The rig itself has previously been used in Applibot projects, and is simple while also being optimized for action sequences.
 
 This is a repository for providing controllers for animation provided by Apribot, Inc.
