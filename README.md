@@ -1,5 +1,11 @@
 # applibot-rig
-株式会社アプリボットが提供するアニメーション用コントローラー提供用リポジトリです.
+[アプリボットリグ](https://www.applibot.co.jp/recruit/3dadopt/3drig/)　は株式会社アプリボットが提供するMAYA用のフリーリグです
+実際に使用しているリグを元にした、シンプルながらもアクションの制作に適した視認性の高いリグです
+
+こちらは、そのコントローラーを提供する為の専用リポジトリとなります.
+
+The Applibot Rig is a free rig for use in Maya released by Applibot.
+The rig itself has previously been used in Applibot projects, and is simple while also being optimized for action sequences.
 
 This is a repository for providing controllers for animation provided by Apribot, Inc.
 
