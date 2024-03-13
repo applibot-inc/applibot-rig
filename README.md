@@ -1,3 +1,6 @@
+↓↓↓　ダウンロードはこの下に案内がございます\
+↓↓↓　 Instructions for downloading are below.
+　　
 # applibot-rig
 [アプリボットリグ](https://www.applibot.co.jp/recruit/3dadopt/3drig/)　は株式会社アプリボットが提供するMAYA用のフリーリグです。
 実際に使用しているリグを元にした、シンプルながらもアクションの制作に適した視認性の高いリグです。
