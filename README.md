@@ -40,10 +40,12 @@ If you want to download all, please select Download ZIP from Code in the upper r
 
 # お願い
 当社のコントローラーを気に入っていただけましたら、リポジトリのStarを押して頂けると幸いです\
-Githubアカウントが必要になりますので、お持ちでないかたは大変お手数ですが新規作成のうえStar登録をよろしくお願いいたします
+Star登録にはGithubアカウントが必要になりますので、お持ちでないかたは大変お手数ですが新規作成のうえ、ご登録をお願いいたします\
+Star数によって開発比重が上がる仕組みとなっております
 
 If you like our controllers, we would appreciate it if you would star our repository!\
-If you do not have a Github account, please create one and register as a Star.
+You will need a Github account to register as a Star, so if you do not have one, please create a new one and register\
+The system is such that the development weight increases depending on the number of stars.
 
 ![image](https://github.com/applibot-inc/applibot-rig/assets/97662281/6328a32f-8ec5-4b4d-980c-7da61619043b)
 
