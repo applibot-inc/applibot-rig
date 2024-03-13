@@ -21,12 +21,10 @@ Please refer to the [license](https://github.com/applibot-inc/applibot-rig/blob/
 
 
 # Download
-以下のリンクをクリックすることで個別にDL可能です.
-
+以下のリンクをクリックすることで個別にDL可能です.\
 全てダウンロードしたい場合は右上にあるCodeよりDownload ZIPを選択してください.
 
-You can download them individually by clicking the link below.
-
+You can download them individually by clicking the link below.\
 If you want to download all, please select Download ZIP from Code in the upper right corner.
 
 [ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
