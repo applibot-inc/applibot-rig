@@ -44,7 +44,7 @@ Star登録にはGithubアカウントが必要になりますので、お持ち�
 Star数によって開発比重が上がる仕組みとなっております
 
 If you like our controllers, we would appreciate it if you would press the Star on the repository!\
-A Github account is required to register as a Star. If you do not have a Github account, please create a new one and register.\
+A Github account is required to register as a Star. If you do not have a Github account, please create a new one and register.
 
 The system is designed to increase the development weight according to the number of Stars.
 　　
