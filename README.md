@@ -20,8 +20,8 @@ Please read [license](https://github.com/applibot-inc/applibot-rig/blob/main/LIC
 
 
 # Download
-以下のリンクをクリックすることで個別にDL可能です.\
-全てダウンロードしたい場合は右上にあるCodeよりDownload ZIPを選択してください.
+以下のリンクをクリックすることで個別にDL可能です\
+全てダウンロードしたい場合は右上にあるCodeよりDownload ZIPを選択してください
 
 They can be downloaded individually by clicking on the links below.\
 If you want to download everything, please select Download ZIP from Code in the upper right corner.
