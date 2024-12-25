@@ -20,10 +20,10 @@ Please read [the license](https://github.com/applibot-inc/applibot-rig/blob/main
 
 # Download
 以下のリンクをクリックすることで個別にDL可能です\
-全てダウンロードしたい場合は[Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_C.zip "Download All")よりダウンロードしてください
+全てダウンロードしたい場合は[Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ApplibotRig.zip "Download All")よりダウンロードしてください
 
 Individual downloads can be accessed from the links below.\
-If you want to download all, please click [Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_C.zip "Download All").
+If you want to download all, please click [Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ApplibotRig.zip "Download All").
 
 [ab - エイビー](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_A.zip "ab - エイビー")
 
