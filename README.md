@@ -20,20 +20,20 @@ Please read [the license](https://github.com/applibot-inc/applibot-rig/blob/main
 
 # Download
 以下のリンクをクリックすることで個別にDL可能です\
-全てダウンロードしたい場合は右上にあるCodeよりDownload ZIPを選択してください
+全てダウンロードしたい場合は[Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_C.zip "Download All")よりダウンロードしてください
 
 Individual downloads can be accessed from the links below.\
-To download all files, please select Download ZIP from Code in the upper right corner.
+If you want to download all, please click [Download All](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_C.zip "Download All").
 
-[ab - エイビー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_A.zip "ab - エイビー")
+[ab - エイビー](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_A.zip "ab - エイビー")
 
 <img width="360" alt="ab" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/e1971b51-5b87-40eb-85fa-defa0bdde5a2">
 
-[suiren - スイレン](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_B.zip "suiren - スイレン")
+[suiren - スイレン](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_B.zip "suiren - スイレン")
 
 <img width="360" alt="suiren" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/d929030f-59b5-495d-958e-3ef088a5c053">
 
-[gummy - グミー](https://github.com/applibot-inc/applibot-rig/raw/main/ApplibotRig/ab_rig_C.zip "gummy - グミー")
+[gummy - グミー](https://github.com/applibot-inc/applibot-rig/releases/download/v1.1.0/ab_rig_C.zip "gummy - グミー")
 
 <img width="360" alt="gummy" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/ee63d23d-0125-49bd-95a5-15e01e03528e">
 
