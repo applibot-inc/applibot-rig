@@ -36,7 +36,7 @@ If you want to download all, please click [Download All](https://github.com/appl
 
 <img width="360" alt="gummy" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/ee63d23d-0125-49bd-95a5-15e01e03528e">
 
-[garnet - ガーネット](https://github.com/applibot-inc/applibot-rig/releases/download/v2.0.0/ab_rig_D.zip "garnet - ガーネット")
+[garnet - ガーネット](https://github.com/applibot-inc/applibot-rig/releases/download/v2.0.0/ab_rig_D.zip "garnet - ガーネット") 🎉<span style="color: red; ">New</span>🎉
 
 <img width="360" alt="garnet" src="https://github.com/user-attachments/assets/66f9ca66-5e5b-4e6f-a71a-f215ee77b60e" />
 
