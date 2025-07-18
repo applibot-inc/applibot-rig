@@ -28,7 +28,7 @@ If you want to download all, please click [Download All](https://github.com/appl
 
 <img width="360" alt="ab" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/e1971b51-5b87-40eb-85fa-defa0bdde5a2">
 
-[suiren - スイレン](https://github.com/applibot-inc/applibot-rig/releases/download/v2.0.0ab_rig_B.zip "suiren - スイレン")
+[suiren - スイレン](https://github.com/applibot-inc/applibot-rig/releases/download/v2.0.0/ab_rig_B.zip "suiren - スイレン")
 
 <img width="360" alt="suiren" src="https://github.com/applibot-inc/applibot-rig/assets/97662281/d929030f-59b5-495d-958e-3ef088a5c053">
 
